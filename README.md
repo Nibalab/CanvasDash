@@ -2,7 +2,7 @@
 
 <br><br>
 
-#project philosophy
+# project philosophy
 
 
 > The philosophy behind CanvasDash is to create a highly interactive and user-friendly platform that enhances productivity by enabling users to customize their workspace according to their needs. With a focus on flexibility, usability, and real-time data visualization, CanvasDash empowers users to control how they view and interact with data, making it an excellent tool for both personal use and business purposes.
@@ -19,7 +19,7 @@
 
 <br><br>
 
-#Tech stack 
+# Tech stack 
 
 
 ### MedVision is built using the following technologies:
@@ -31,7 +31,7 @@
 
 <br><br>
 
-#How to run 
+# How to run 
 
 > To set up CanvasDash locally, follow these steps:
 
